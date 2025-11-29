@@ -1,4 +1,4 @@
-markdown
-# LiFE\$^3\$-Net
+
+# $LiFE^3-Net$
 
 Code will be coming soon!
